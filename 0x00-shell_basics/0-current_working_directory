@@ -1,2 +1,5 @@
 pwd
+pwd "i" #!/bin/bash
+#!/bin/bash
 pwd
+
